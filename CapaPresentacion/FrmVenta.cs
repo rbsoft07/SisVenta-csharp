@@ -5,6 +5,8 @@ using System.Windows.Forms;
 
 namespace CapaPresentacion
 {
+
+    //pantalla de venta de articulos para los clientes.
     public partial class FrmVenta : Form
     {
         private bool isNuevo = false;
