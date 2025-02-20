@@ -36,3 +36,6 @@ Acceso al sistema
 Este sistema fue desarrollado siguiendo el tutorial "[Sistema de Ventas C# - Visual Studio 2013 y Sql Server 2014](https://www.youtube.com/playlist?list=PLZPrWDz1Molqn16IORKg8nFYTejgYCHJp)" por Juan Carlos Arcila Díaz. Sin embargo he realizado cambios simples en cuanto a optimización de código o "Clean code" y funcionalidades no fueron desarrolladas en el tutorial, como la encriptación de contraseñas o poder realizar backup de la base de datos directamente desde la aplicación.
 
 El sistema se puede mejorar considerablemente, aunque entiendo es una buena base para empezar.
+
+## Nota: 
+Se pueden tomar algunas ideas para la parte del css y funcionalidades basicas para el manejo de datos.
